@@ -1,9 +1,9 @@
 # Excel-Financial-Modelling-Scenario-Analysis
 A flexible spreadsheet to aid financial decisions of the leadership team.
-## MegaWidget International
+
 ## Introduction
 
-Megawidget is a computer manufacturing company about to make some capital investment decisions, hence requires a financial model to determine the financial viability of the project.
+Megawidget International is a computer manufacturing company about to make some capital investment decisions, hence requires a financial model to determine the financial viability of the project.
 **_Disclaimer_** : _This is not a real company, it is an assignment task carried out as part of my coursework. 
 
 ## Skills Demonstrated
