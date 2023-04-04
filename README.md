@@ -1,15 +1,15 @@
 ## Excel-Financial-Modelling-Scenario-Analysis
-A flexible spreadsheet to aid financial decisions of the leadership team.
+A flexible spreadsheet to aid the financial decision of the leadership team.
 
 ### Introduction
 ![Logo template - Made with PosterMyWall](https://user-images.githubusercontent.com/122166125/229868049-eb9f42c7-50ca-4b00-862a-be042720a208.jpg)
 
-Megawidget International is a computer manufacturing company about to make some capital investment decisions, hence requires a financial model to determine the financial viability of the project.
+MegaWidget International is considering building a new facility so that it can manufacture more of the products it sells, and requires a loan to finance the new factory. Before the leadership team makes a final decision,they need a financial model to determine if such a project is likely to be financially viable.
 
 **_Disclaimer_** : _This is not a real company, it is an assignment task carried out as part of my coursework_. 
 
 ### Problem Statement
-1. Is taking the proposed loan viable, does changing the term make a difference.
+1. Is taking the proposed loan viable, does changing the loan term make a difference.
 2. How does introducing a discount scheme affect company profits
 3. Assume a 5% increase in monthly sales starting from Dec 2022, will it make the proposed loan viable.
 4. What is the effect of switching to a flat-rate delivery charge (regardless of the size of the order).
