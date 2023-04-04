@@ -9,18 +9,12 @@ Megawidget International is a computer manufacturing company about to make some 
 
 ### Skills Demonstrated
 The following were incorporated:
-
--Page Navigation,
-
--Data Table,
-
--UserForm,
-
--Macros,
-
--MonteCarlo Simulation
-
--Visual Basic for Applications (VBA)
+- Page Navigation,
+- Data Table,
+- UserForm,
+- Macros,
+- MonteCarlo Simulation
+- Visual Basic for Applications (VBA)
 
 ### Key Features & User Guide
 The interface is designed with flexbility in order to enhance user experience. Use the below buttons described
