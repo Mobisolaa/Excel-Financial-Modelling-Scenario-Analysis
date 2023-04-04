@@ -2,7 +2,8 @@
 A flexible spreadsheet to aid financial decisions of the leadership team.
 
 ### Introduction
-![Logo template - Made with PosterMyWall](https://user-images.githubusercontent.com/122166125/229867670-cff3139d-0723-44cc-b319-98b377ad6ed3.jpg)
+![Logo template - Made with PosterMyWall](https://user-images.githubusercontent.com/122166125/229868049-eb9f42c7-50ca-4b00-862a-be042720a208.jpg)
+
 Megawidget International is a computer manufacturing company about to make some capital investment decisions, hence requires a financial model to determine the financial viability of the project.
 
 **_Disclaimer_** : _This is not a real company, it is an assignment task carried out as part of my coursework_. 
@@ -27,4 +28,5 @@ The following are part of the functions incorporated:
 ### Key Features & User Guide
 The interface is designed with flexbility in order to enhance user experience. Use the below buttons described
 ![userguideS](https://user-images.githubusercontent.com/122166125/229848446-864592c3-2bbf-41b6-998f-60b5dac8e51b.PNG)
+
 
