@@ -29,7 +29,8 @@ The following are part of the functions incorporated:
 ### Key Features & User Guide
 The interface is designed with flexbility in order to enhance user experience. Use the below buttons described
 
-![userguideS](https://user-images.githubusercontent.com/122166125/229848446-864592c3-2bbf-41b6-998f-60b5dac8e51b.PNG)
+![UG](https://user-images.githubusercontent.com/122166125/230155532-1c512f4c-cf5e-4991-9b01-4b7587076345.PNG)
+
 ### Insight & Visualization
 - 42% of sales is generated from the WC postcode followed by HS at 7%
 - The month of August records the most sales  every year.
@@ -47,3 +48,4 @@ The interface is designed with flexbility in order to enhance user experience. U
 							
 								
 								
+
